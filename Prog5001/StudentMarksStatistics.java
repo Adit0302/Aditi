@@ -1,12 +1,9 @@
-package Prog5001;
-
-
 /**
- * Write a description of class StudentMarksStatistics here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * Assignment1-Prog5001
+ * @author Aditi Selly
+ * git@github.com:Adit0302/Aditi.git
  */
+package Prog5001;
 import java.util.ArrayList;
 import java.util.Scanner;
 
