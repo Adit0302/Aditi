@@ -1,13 +1,6 @@
 package Prog5001;
 import java.util.ArrayList;
 import java.util.Scanner;
-
-/**
- * Write a description of class Functions here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Bsort
 {
     // Bubble sort algorithm to arrange marks in ascending order
