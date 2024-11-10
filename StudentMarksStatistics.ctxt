@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=StudentMarksStatistics
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment2.params=scanner\ studentNumber
-comment2.target=double\ getValidMark(java.util.Scanner,\ int)
-numComments=3
