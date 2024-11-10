@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Compute
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ computeMean\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
-comment1.params=marks
-comment1.target=double\ mean(java.util.ArrayList)
-comment2.params=marks\ mean
-comment2.target=double\ standardDeviation(java.util.ArrayList,\ double)
-numComments=3
