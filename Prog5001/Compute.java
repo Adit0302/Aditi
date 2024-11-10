@@ -1,12 +1,5 @@
 package Prog5001;
-
 import java.util.ArrayList;
-/**
- * Write a description of class computeMean here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Compute
 {
        // Compute mean of the marks
