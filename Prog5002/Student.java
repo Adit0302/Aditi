@@ -6,7 +6,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//Class to represent a Person
 class Person
   {
     private String name;
@@ -17,30 +17,30 @@ class Person
         this.name = name;
         this.id = id;
     }
-
+// Getter for name
     public String getName() 
     {
         return name;
     }
-
+ // Getter for ID
     public String getId() 
     {
         return id;
     }
 }
-
+// Class to represent a student, extending Person
 class Student extends Person 
 {
     private int[] marks; 
     private int totalMarks;
-
+// Constructor to initialize Student details
     public Student(String name, String id, int[] marks) 
     {
         super(name, id);
         this.marks = marks;
         this.totalMarks = calculateTotal();
     }
-
+// Method to calculate the total marks from the marks array
     private int calculateTotal() 
     {
         int total = 0;
@@ -155,7 +155,7 @@ class StudentData
     }
 }
 
-    
+      // Method to print students with total marks below a threshold  
     public void printTopAndBottomThreshold(int threshold) 
     {
         System.out.println("Students with total marks below " + threshold + ":");
@@ -169,7 +169,7 @@ class StudentData
     }
 }
 
-// Main program
+// Main class to execute the program
 public class StudentStatistics1 
 {
     public static void main(String[] args) 
